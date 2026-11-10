@@ -1,0 +1,5 @@
+*.blend1
+*~
+# third-party assets, not redistributable
+TRIToon/
+assets/materials/
